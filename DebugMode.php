@@ -34,7 +34,7 @@ $wgExtensionCredits['other'][] = array(
 	'version' => '0.1.0 beta',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:DebugMode',
 	'descriptionmsg' => 'debugmode-desc',
-	'license-name' => 'GPL-2.0+'
+	'license-name' => 'GPL-2.0-or-later'
 );
 
 $wgMessagesDirs['DebugMode'] = __DIR__ . '/i18n';
