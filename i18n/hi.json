@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Innocentbunny"
+			"Innocentbunny",
+			"Bhatakati aatma"
 		]
 	},
-	"debugmode-desc": "विकी को डीबग मोड में दाल देता है"
+	"debugmode-desc": "विकी को डीबग मोड में डाल देता है"
 }
