@@ -20,7 +20,7 @@
 /**
  * DebugMode extension - Puts wiki into debug mode
  *
- * For more info see http://mediawiki.org/wiki/Extension:DebugMode
+ * For more info see https://mediawiki.org/wiki/Extension:DebugMode
  *
  * @file
  * @ingroup Extensions
