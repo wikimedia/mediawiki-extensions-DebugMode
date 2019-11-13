@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Verdy p"
 		]
 	},
-	"debugmode-desc": "Met le wiki en mode débogage"
+	"debugmode-desc": "Règle le wiki en mode de débogage"
 }
