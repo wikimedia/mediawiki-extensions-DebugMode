@@ -180,7 +180,8 @@ class DebugMode {
 		$varArray = array();
 
 		if ( $this->isModeSet( self::DEBUG_MODE_RESOURCE_LOADER ) ) {
-			$varArray['wgResourceLoaderMaxage'] = 1;
+			$varArray['wgResourceLoaderMaxage']['unversioned'] = 1;
+			$varArray['wgResourceLoaderMaxage']['versioned'] = 1;
 		}
 		$varArray['wgProfileLimit'] = 0.0;
 
