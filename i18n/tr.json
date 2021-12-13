@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"MuratTheTurkish"
 		]
 	},
-	"debugmode-desc": "Wikiyi hata ayıklama moduna geçirir"
+	"debugmode-desc": "Vikiyi hata ayıklama moduna geçirir"
 }
