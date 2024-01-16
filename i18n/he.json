@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yona b"
+			"Yona b",
+			"Amire80"
 		]
 	},
-	"debugmode-desc": "העברת הוויקי למצב דיבאג"
+	"debugmode-desc": "העברת הוויקי למצב ניפוי שגיאות"
 }
